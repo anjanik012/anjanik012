@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://media4.giphy.com/media/l0MYKMrQnwNvLjYhW/giphy.gif" width="200" height="200" />
 
 I am Anjani, final year engineering student in Information Technology. I like to work on C++ 
 applications and libraries. I also know Java and thus do a little bit of Android development. I help
