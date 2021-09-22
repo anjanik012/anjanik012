@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/l0MYKMrQnwNvLjYhW" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cover-pink-floyd-dark-side-l0MYKMrQnwNvLjYhW">via GIPHY</a></p>
 
 I am Anjani, final year engineering student in Information Technology. I like to work on C++ 
 applications and libraries. I also know Java and thus do a little bit of Android development. I help
