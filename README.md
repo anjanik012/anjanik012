@@ -2,13 +2,10 @@
 
 <img src="https://media4.giphy.com/media/l0MYKMrQnwNvLjYhW/giphy.gif" width="200" height="200" />
 
-I am Anjani, final year engineering student in Information Technology. I like to work on C++ 
-applications and libraries. I also know Java and thus do a little bit of Android development. I help
-out on projects of the KDE Community in my free time.
+I am Anjani, working as an SDET in SentinelOne. I work on Windows Active Directory security. I like to work on C++ 
+applications and libraries.
 
  * 📝 Have worked on [digiKam](https://digikam.org/) and [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
- * 🔭 I’m currently learning Network programming.
- * 😄 Interested in Golang and Rust...
  * 💬 Ask me about GNU/Linux, FOSS, C++ and Arch Linux :)
  * 📫 How to reach me: [Email(preffered)](mailto:anjanik012@gmail.com), [Telegram](https://t.me/anjanik012), [LinkedIn](https://linkedin.com/in/anjanik012)
 
